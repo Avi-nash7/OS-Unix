@@ -1,0 +1,43 @@
+#!/bib/bash
+
+echo "Enter your choice (1 to 6):"
+echo "1. List files in current directory"
+echo "2. Display current date"
+echo "3. Display process status"
+echo "4. Display logged-in users"
+echo "5. Display present working directory"
+echo "6. Exit"
+
+read choice
+
+case $choice in
+	1)
+		echo "Files in current directory:"
+		ls
+		;;
+	2)
+		echo "Current date is:"
+		date
+		;;
+	3)
+		echo "Process status:"
+		ps
+		;;
+	4)
+		echo "Logged-in users:"
+		who
+		;;
+	5)
+		echo "Present working directory:"
+		pwd
+		;;
+	6)
+		echo "Exiting program..."
+		exit 0
+		;;
+	*)
+		echo "Invalid option"
+		exit 1
+		;;
+esac
+		

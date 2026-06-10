@@ -1,0 +1,17 @@
+Name        Size(Bytes)    Permissions
+-1.14-windows.xml        
+NTUSER.DAT    15204352    -rwxrwxrwx
+NTUSER.DAT{10a550ae-de78-11ed-ae70-a0d3c15a2d90}.TM.blf    65536    -rwxrwxrwx
+NTUSER.DAT{10a550ae-de78-11ed-ae70-a0d3c15a2d90}.TMContainer00000000000000000001.regtrans-ms    524288    -rwxrwxrwx
+NTUSER.DAT{10a550ae-de78-11ed-ae70-a0d3c15a2d90}.TMContainer00000000000000000002.regtrans-ms    524288    -rwxrwxrwx
+argument.sh    101    -rwxrwxrwx
+backup    448    -rwxrwxrwx
+greet.sh    260    -rwxrwxrwx
+line_count.sh    239    -rwxrwxrwx
+my_backup.sh    355    -rwxrwxrwx
+ntuser.dat.LOG1    3407872    -rwxrwxrwx
+ntuser.dat.LOG2    3407872    -rwxrwxrwx
+ntuser.ini    20    -rwxrwxrwx
+test    13    -rwxrwxrwx
+upper_to_lower.sh    196    -rwxrwxrwx
+user_info.sh    183    -rwxrwxrwx

@@ -1,0 +1,4 @@
+empno name salary age
+101 Raj 4000 25
+102 Amit 6000 30
+103 Sita 3000 28
